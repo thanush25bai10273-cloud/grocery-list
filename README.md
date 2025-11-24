@@ -1,15 +1,15 @@
 arkdown
-# Grocery List Manager 🛒
+# Grocery List Manager 
 
 A Python-based console application for efficient grocery shopping management with categorized items and data persistence.
 
 ## Features
 
-- **📝 List Management** - Create, edit, and manage multiple grocery lists
-- **🏷️ Categorized Items** - Organize groceries by categories (Produce, Dairy, etc.)
-- **💾 Data Persistence** - Automatic saving and loading of all data
-- **✅ Purchase Tracking** - Mark items as purchased/unpurchased
-- **📊 Progress Monitoring** - Track shopping completion status
+- ** List Management** - Create, edit, and manage multiple grocery lists
+- ** Categorized Items** - Organize groceries by categories (Produce, Dairy, etc.)
+- ** Data Persistence** - Automatic saving and loading of all data
+- ** Purchase Tracking** - Mark items as purchased/unpurchased
+- ** Progress Monitoring** - Track shopping completion status
 
 ## Project Structure
 .
@@ -25,7 +25,7 @@ text
 
 ## Modules Description
 
-### 🎯 Core Modules
+###  Core Modules
 - **`main.py`** - Application entry point and user interface
 - **`ListManager.py`** - Handles list operations (create, read, update, delete)
 - **`GroceryItem.py`** - Defines item properties and behaviors
