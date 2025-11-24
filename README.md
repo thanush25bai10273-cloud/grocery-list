@@ -30,7 +30,7 @@ text
 - **`ListManager.py`** - Handles list operations (create, read, update, delete)
 - **`GroceryItem.py`** - Defines item properties and behaviors
 
-### 🔧 Support Modules
+###  Support Modules
 - **`categories.py`** - Manages item categorization system
 - **`DataStore/`** - Handles data persistence and file operations
 
