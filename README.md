@@ -1,4 +1,4 @@
-arkdown
+
 # Grocery List Manager 
 
 A Python-based console application for efficient grocery shopping management with categorized items and data persistence.
